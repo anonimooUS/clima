@@ -2,7 +2,7 @@ name: Morning Weather Report
 
 on:
   schedule:
-    - cron: '40 11 * * *'
+    - cron: '18 13 * * *'
   workflow_dispatch:
 
 jobs:
